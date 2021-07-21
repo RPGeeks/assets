@@ -1,0 +1,2 @@
+# assets
+Veloren assets kit
